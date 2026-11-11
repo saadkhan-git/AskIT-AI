@@ -1,0 +1,42 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" x2="1">
+      <stop offset="0" stop-color="#0a1220"/>
+      <stop offset="1" stop-color="#111d2f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="url(#bg2)"/>
+  <rect x="80" y="60" width="1240" height="780" rx="28" fill="#0f172a" stroke="#2d456a"/>
+
+  <rect x="110" y="95" width="1180" height="74" rx="16" fill="#111c2e"/>
+  <text x="145" y="142" fill="#f8fafc" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">🤖 AskIT AI</text>
+  <text x="1055" y="142" fill="#9fb2d1" font-size="18" font-family="Segoe UI, Arial, sans-serif">Llama 3.2 • 3b</text>
+
+  <rect x="110" y="190" width="1180" height="470" rx="18" fill="#0b1220" stroke="#233552"/>
+
+  <rect x="140" y="222" width="420" height="62" rx="18" fill="#25344b"/>
+  <circle cx="170" cy="253" r="8" fill="#60a5fa"/>
+  <text x="188" y="260" fill="#dbeafe" font-size="16" font-family="Segoe UI, Arial, sans-serif">How can I set up this project locally?</text>
+
+  <rect x="690" y="305" width="560" height="110" rx="18" fill="#18283d"/>
+  <circle cx="718" cy="335" r="8" fill="#34d399"/>
+  <text x="736" y="342" fill="#bbf7d0" font-size="16" font-family="Segoe UI, Arial, sans-serif">Assistant</text>
+  <text x="718" y="374" fill="#e2e8f0" font-size="20" font-family="Segoe UI, Arial, sans-serif">1. Install Python and Ollama.</text>
+  <text x="718" y="402" fill="#e2e8f0" font-size="20" font-family="Segoe UI, Arial, sans-serif">2. Pull the llama3.2:3b model.</text>
+
+  <rect x="140" y="440" width="510" height="90" rx="18" fill="#25344b"/>
+  <text x="168" y="474" fill="#dbeafe" font-size="18" font-family="Segoe UI, Arial, sans-serif">Can you explain the app architecture?</text>
+  <text x="168" y="501" fill="#dbeafe" font-size="18" font-family="Segoe UI, Arial, sans-serif">I want to extend it with memory.</text>
+
+  <rect x="640" y="545" width="610" height="120" rx="18" fill="#18283d"/>
+  <circle cx="668" cy="575" r="8" fill="#34d399"/>
+  <text x="686" y="582" fill="#bbf7d0" font-size="16" font-family="Segoe UI, Arial, sans-serif">Assistant</text>
+  <text x="668" y="616" fill="#e2e8f0" font-size="20" font-family="Segoe UI, Arial, sans-serif">The core app is a Streamlit frontend with an Ollama</text>
+  <text x="668" y="642" fill="#e2e8f0" font-size="20" font-family="Segoe UI, Arial, sans-serif">backend for local model inference and streaming.</text>
+
+  <rect x="110" y="690" width="1180" height="84" rx="16" fill="#101928" stroke="#2d456a"/>
+  <rect x="130" y="710" width="1030" height="44" rx="12" fill="#1b2435" stroke="#374d72"/>
+  <text x="155" y="739" fill="#94a3b8" font-size="18" font-family="Segoe UI, Arial, sans-serif">Ask Unnamed anything...</text>
+  <circle cx="1195" cy="732" r="18" fill="#2563eb"/>
+  <path d="M1187 732 L1193 738 L1207 724" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

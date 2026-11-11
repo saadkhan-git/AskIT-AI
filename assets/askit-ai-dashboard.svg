@@ -1,0 +1,52 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#131d2f"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" x2="1">
+      <stop offset="0" stop-color="#182338"/>
+      <stop offset="1" stop-color="#111a2b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="url(#bg)"/>
+  <rect x="40" y="40" width="1320" height="820" rx="26" fill="rgba(15,23,42,0.75)" stroke="#24314d"/>
+
+  <rect x="70" y="78" width="250" height="744" rx="20" fill="#0f172a" stroke="#2a3a5d"/>
+  <text x="95" y="128" fill="#f8fafc" font-size="30" font-family="Segoe UI, Arial, sans-serif" font-weight="700">⚙️ Settings</text>
+  <text x="95" y="180" fill="#cbd5e1" font-size="18" font-family="Segoe UI, Arial, sans-serif">Choose AI Model</text>
+  <rect x="95" y="195" width="180" height="42" rx="10" fill="#1e293b" stroke="#3b4a68"/>
+  <text x="112" y="223" fill="#e2e8f0" font-size="16" font-family="Segoe UI, Arial, sans-serif">llama3.2:3b</text>
+  <line x1="95" y1="263" x2="257" y2="263" stroke="#334155"/>
+  <text x="95" y="310" fill="#f8fafc" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="600">About Askit AI</text>
+  <text x="95" y="346" fill="#cbd5e1" font-size="16" font-family="Segoe UI, Arial, sans-serif">A personal AI assistant built</text>
+  <text x="95" y="370" fill="#cbd5e1" font-size="16" font-family="Segoe UI, Arial, sans-serif">using Python, Streamlit and</text>
+  <text x="95" y="394" fill="#cbd5e1" font-size="16" font-family="Segoe UI, Arial, sans-serif">Ollama.</text>
+  <rect x="95" y="736" width="190" height="44" rx="12" fill="#1d4ed8"/>
+  <text x="120" y="765" fill="#f8fafc" font-size="18" font-family="Segoe UI, Arial, sans-serif" font-weight="600">🗑️ Clear Chat</text>
+
+  <rect x="360" y="78" width="940" height="744" rx="20" fill="url(#card)" stroke="#24314d"/>
+  <text x="395" y="130" fill="#f8fafc" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">🤖 AskIT AI</text>
+  <text x="395" y="165" fill="#94a3b8" font-size="18" font-family="Segoe UI, Arial, sans-serif">Your Personal AI Assistant | Powered by Llama 3.2</text>
+
+  <rect x="395" y="195" width="850" height="410" rx="18" fill="#101827" stroke="#22314f"/>
+  <rect x="430" y="230" width="550" height="30" rx="14" fill="#1e293b"/>
+  <circle cx="454" cy="245" r="7" fill="#60a5fa"/>
+  <text x="472" y="250" fill="#dbeafe" font-size="14" font-family="Segoe UI, Arial, sans-serif">You</text>
+  <text x="430" y="290" fill="#e2e8f0" font-size="18" font-family="Segoe UI, Arial, sans-serif">Tell me about the project goals and features.</text>
+
+  <rect x="430" y="340" width="620" height="120" rx="18" fill="#172033"/>
+  <circle cx="454" cy="367" r="7" fill="#34d399"/>
+  <text x="472" y="372" fill="#bbf7d0" font-size="14" font-family="Segoe UI, Arial, sans-serif">Assistant</text>
+  <text x="430" y="405" fill="#dbeafe" font-size="18" font-family="Segoe UI, Arial, sans-serif">This is a local AI assistant that helps with quick</text>
+  <text x="430" y="432" fill="#dbeafe" font-size="18" font-family="Segoe UI, Arial, sans-serif">answers, brainstorming, and day-to-day productivity.</text>
+  <text x="430" y="459" fill="#dbeafe" font-size="18" font-family="Segoe UI, Arial, sans-serif">It runs using Ollama and a local Llama model.</text>
+
+  <rect x="395" y="650" width="850" height="110" rx="18" fill="#111827" stroke="#2b3f5e"/>
+  <rect x="415" y="670" width="760" height="52" rx="12" fill="#1f2b3d" stroke="#3b4a68"/>
+  <text x="438" y="701" fill="#94a3b8" font-size="20" font-family="Segoe UI, Arial, sans-serif">Ask Unnamed anything...</text>
+  <circle cx="1160" cy="696" r="16" fill="#2563eb"/>
+  <path d="M1152 696 L1158 702 L1170 690" stroke="#ffffff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <text x="1155" y="775" fill="#94a3b8" font-size="16" font-family="Segoe UI, Arial, sans-serif">Askit AI © 2026 | Built with Saad Khan</text>
+</svg>
